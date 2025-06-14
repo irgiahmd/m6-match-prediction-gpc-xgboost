@@ -1,0 +1,471 @@
+﻿match_id;Team Name;player_name;Winner;hero;kill;death;assist;role;mvp_status;hero_ban;stage
+M6-001; Selangor Red Giants;Sekys;S2G Esports;Joy;5;4;2;Jungler;No MVP;Zhuxin,Hylos,Yve,Phoveus,Vexana;Swiss Stage
+M6-001; Selangor Red Giants;Stormie;S2G Esports;Valentina;1;4;4;Midlaner;No MVP;Zhuxin,Hylos,Yve,Phoveus,Vexana;Swiss Stage
+M6-001; Selangor Red Giants;Kramm;S2G Esports;Khaled;0;3;6;Explaner;No MVP;Zhuxin,Hylos,Yve,Phoveus,Vexana;Swiss Stage
+M6-001; Selangor Red Giants;Innocent;S2G Esports;Granger;4;0;4;Goldlaner;No MVP;Zhuxin,Hylos,Yve,Phoveus,Vexana;Swiss Stage
+M6-001; Selangor Red Giants;Yums;S2G Esports;Gatotkaca;0;3;8;Roamer;No MVP;Zhuxin,Hylos,Yve,Phoveus,Vexana;Swiss Stage
+M6-001;S2G Esports;Sigibum;S2G Esports;Bruno;3;1;7;Goldlaner;No MVP;Alpha,Fanny,Hilda,Harith,Chou;Swiss Stage
+M6-001;S2G Esports;Kazue;S2G Esports;Suyou;6;0;5;Jungler;MVP;Alpha,Fanny,Hilda,Harith,Chou;Swiss Stage
+M6-001;S2G Esports;Lunar;S2G Esports;Ruby;1;3;4;Explaner;No MVP;Alpha,Fanny,Hilda,Harith,Chou;Swiss Stage
+M6-001;S2G Esports;Begin;S2G Esports;Aurora;1;3;7;Midlaner;No MVP;Alpha,Fanny,Hilda,Harith,Chou;Swiss Stage
+M6-001;S2G Esports;Pagu;S2G Esports;Mathilda;3;3;9;Roamer;No MVP;Alpha,Fanny,Hilda,Harith,Chou;Swiss Stage
+M6-002; ULFHEDNAR;Tienzy;BloodThirstyKings;Joy;4;5;6;Jungler;No MVP;Moskov,Wanwan,Phoveus,Zhuxin,Alpha;Swiss Stage
+M6-002; ULFHEDNAR;Rosa;BloodThirstyKings;Aurora;1;4;7;Midlaner;No MVP;Moskov,Wanwan,Phoveus,Zhuxin,Alpha;Swiss Stage
+M6-002; ULFHEDNAR;Apex47;BloodThirstyKings;Chou;1;4;5;Explaner;No MVP;Moskov,Wanwan,Phoveus,Zhuxin,Alpha;Swiss Stage
+M6-002; ULFHEDNAR;Sunshine;BloodThirstyKings;Bruno;6;4;1;Goldlaner;No MVP;Moskov,Wanwan,Phoveus,Zhuxin,Alpha;Swiss Stage
+M6-002; ULFHEDNAR;Alien;BloodThirstyKings;Gloo;0;5;7;Roamer;No MVP;Moskov,Wanwan,Phoveus,Zhuxin,Alpha;Swiss Stage
+M6-002;BloodThirstyKings;Mobazane;BloodThirstyKings;Fredrin;2;4;15;Jungler;No MVP;Fanny,Yve,Hilda,Cici,Angela;Swiss Stage
+M6-002;BloodThirstyKings;Hoon;BloodThirstyKings;Luoyi;9;2;10;Midlaner;MVP;Fanny,Yve,Hilda,Cici,Angela;Swiss Stage
+M6-002;BloodThirstyKings;Fwydchicken;BloodThirstyKings;Arlot;4;2;12;Explaner;No MVP;Fanny,Yve,Hilda,Cici,Angela;Swiss Stage
+M6-002;BloodThirstyKings;Zia;BloodThirstyKings;Granger;3;2;10;Goldlaner;No MVP;Fanny,Yve,Hilda,Cici,Angela;Swiss Stage
+M6-002;BloodThirstyKings;Shark;BloodThirstyKings;Hylos;4;2;13;Roamer;No MVP;Fanny,Yve,Hilda,Cici,Angela;Swiss Stage
+M6-003;NIP Flash;Hadess;CFU Gaming;Alpha;5;7;17;Jungler;No MVP;Joy,Hayabusa,Phoveus,Zhuxin,Hilda;Swiss Stage
+M6-003;NIP Flash;Kurttzy;CFU Gaming;Luoyi;3;4;16;Midlaner;No MVP;Joy,Hayabusa,Phoveus,Zhuxin,Hilda;Swiss Stage
+M6-003;NIP Flash;Diablo;CFU Gaming;Cici;9;4;13;Explaner;No MVP;Joy,Hayabusa,Phoveus,Zhuxin,Hilda;Swiss Stage
+M6-003;NIP Flash;Vanix;CFU Gaming;Granger;10;2;15;Goldlaner;No MVP;Joy,Hayabusa,Phoveus,Zhuxin,Hilda;Swiss Stage
+M6-003;NIP Flash;JPL;CFU Gaming;Tigreal;0;6;16;Roamer;No MVP;Joy,Hayabusa,Phoveus,Zhuxin,Hilda;Swiss Stage
+M6-003;CFU Gaming;Detective;CFU Gaming;Suyou;9;3;6;Jungler;No MVP;Yve,Khaled,Fanny,Benedetta,Mathilda;Swiss Stage
+M6-003;CFU Gaming;Zee;CFU Gaming;Valentina;5;6;13;Midlaner;No MVP;Yve,Khaled,Fanny,Benedetta,Mathilda;Swiss Stage
+M6-003;CFU Gaming;Wadu;CFU Gaming;Hylos;2;8;13;Explaner;No MVP;Yve,Khaled,Fanny,Benedetta,Mathilda;Swiss Stage
+M6-003;CFU Gaming;Xingg;CFU Gaming;Bruno;7;5;9;Goldlaner;MVP;Yve,Khaled,Fanny,Benedetta,Mathilda;Swiss Stage
+M6-003;CFU Gaming;Oppi;CFU Gaming;Chou;0;5;15;Roamer;No MVP;Yve,Khaled,Fanny,Benedetta,Mathilda;Swiss Stage
+M6-004; Team Spirit;Oneshot; Team Spirit;Alpha;1;0;8;Jungler;No MVP;Tigreal,Chou,Zhuxin,Suyou,Yve;Swiss Stage
+M6-004; Team Spirit;Sunsetlover; Team Spirit;Valentina;7;2;2;Midlaner;No MVP;Tigreal,Chou,Zhuxin,Suyou,Yve;Swiss Stage
+M6-004; Team Spirit;Kidbomba; Team Spirit;Gloo;0;0;8;Explaner;No MVP;Tigreal,Chou,Zhuxin,Suyou,Yve;Swiss Stage
+M6-004; Team Spirit;Hiko; Team Spirit;Beatrix;4;0;6;Goldlaner;MVP;Tigreal,Chou,Zhuxin,Suyou,Yve;Swiss Stage
+M6-004; Team Spirit;Sawo; Team Spirit;Hylos;0;1;7;Roamer;No MVP;Tigreal,Chou,Zhuxin,Suyou,Yve;Swiss Stage
+M6-004;Maycam Evolve;Auroraa; Team Spirit;YiSuShin;0;3;1;Jungler;No MVP;Hilda,Fanny,Luoyi,Mathilda,Chip;Swiss Stage
+M6-004; Maycam Evolve;Feshin; Team Spirit;Aurora;1;2;2;Midlaner;No MVP;Hilda,Fanny,Luoyi,Mathilda,Chip;Swiss Stage
+M6-004; Maycam Evolve;Markinho; Team Spirit;Phoveus;0;3;2;Explaner;No MVP;Hilda,Fanny,Luoyi,Mathilda,Chip;Swiss Stage
+M6-004; Maycam Evolve;Yurokkotsu; Team Spirit;Bruno;2;1;1;Goldlaner;No MVP;Hilda,Fanny,Luoyi,Mathilda,Chip;Swiss Stage
+M6-004; Maycam Evolve;Supernahuel; Team Spirit;Gatotkaca;0;3;1;Roamer;No MVP;Hilda,Fanny,Luoyi,Mathilda,Chip;Swiss Stage
+M6-005;Twisted Minds;70da;Twisted Minds;Joy;7;2;5;Jungler;No MVP;Valentina,Luoyi,Hylos,Suyou,Zhuxin;Swiss Stage
+M6-005;Twisted Minds;Cuffin;Twisted Minds;Aurora;1;3;16;Midlaner;No MVP;Valentina,Luoyi,Hylos,Suyou,Zhuxin;Swiss Stage
+M6-005;Twisted Minds;Sanjii;Twisted Minds;Gatotkaca;6;2;10;Explaner;No MVP;Valentina,Luoyi,Hylos,Suyou,Zhuxin;Swiss Stage
+M6-005;Twisted Minds;Saano;Twisted Minds;Bruno;7;1;8;Goldlaner;MVP;Valentina,Luoyi,Hylos,Suyou,Zhuxin;Swiss Stage
+M6-005;Twisted Minds;Troll;Twisted Minds;Tigreal;0;6;13;Roamer;No MVP;Valentina,Luoyi,Hylos,Suyou,Zhuxin;Swiss Stage
+M6-005;Team Vamos;Chibi;Twisted Minds;Nolan;4;6;3;Jungler;No MVP;Mathilda,Fanny,Hilda,Angela,Phoveus;Swiss Stage
+M6-005;Team Vamos;Warlord;Twisted Minds;Khaled;4;4;7;Midlaner;No MVP;Mathilda,Fanny,Hilda,Angela,Phoveus;Swiss Stage
+M6-005;Team Vamos;Smooth;Twisted Minds;Edith;4;3;6;Explaner;No MVP;Mathilda,Fanny,Hilda,Angela,Phoveus;Swiss Stage
+M6-005;Team Vamos;Nets;Twisted Minds;Harith;1;4;7;Goldlaner;No MVP;Mathilda,Fanny,Hilda,Angela,Phoveus;Swiss Stage
+M6-005;Team Vamos;Xorn;Twisted Minds;Chip;1;4;9;Roamer;No MVP;Mathilda,Fanny,Hilda,Angela,Phoveus;Swiss Stage
+M6-006;Falcon Esports;Daxx;Falcon Esports;Bane;4;1;9;Jungler;No MVP;Yve,Mathilda,Chou,Beatrix,Edith;Swiss Stage
+M6-006;Falcon Esports;Px7;Falcon Esports;Zhuxin;7;2;8;Midlaner;MVP;Yve,Mathilda,Chou,Beatrix,Edith;Swiss Stage
+M6-006;Falcon Esports;Royalmilk;Falcon Esports;Hilda;2;3;7;Explaner;No MVP;Yve,Mathilda,Chou,Beatrix,Edith;Swiss Stage
+M6-006;Falcon Esports;beni;Falcon Esports;Bruno;4;0;7;Goldlaner;No MVP;Yve,Mathilda,Chou,Beatrix,Edith;Swiss Stage
+M6-006;Falcon Esports;kidx;Falcon Esports;hylos;0;5;13;Roamer;No MVP;Yve,Mathilda,Chou,Beatrix,Edith;Swiss Stage
+M6-006;Aurora Gaming;Demonkite;Falcon Esports;Suyou;5;3;2;Jungler;No MVP;Joy,Alpha,Phoveus,chip,fanny;Swiss Stage
+M6-006;Aurora Gaming;Yue;Falcon Esports;Aurora;1;3;9;Midlaner;No MVP;Joy,Alpha,Phoveus,chip,fanny;Swiss Stage
+M6-006;Aurora Gaming;Edward;Falcon Esports;Gatotkaca;2;5;3;Explaner;No MVP;Joy,Alpha,Phoveus,chip,fanny;Swiss Stage
+M6-006;Aurora Gaming;Domeng;Falcon Esports;Moskov;2;1;4;Goldlaner;No MVP;Joy,Alpha,Phoveus,chip,fanny;Swiss Stage
+M6-006;Aurora Gaming;Renejay;Falcon Esports;Guinevere;1;5;6;Roamer;No MVP;Joy,Alpha,Phoveus,chip,fanny;Swiss Stage
+M6-007;KeepBest Gaming;Saxa;RRQ Hoshi;Suyou;1;4;3;Jungler;No MVP;Yve,Luoyi,Fanny,Phoveus,Hylos;Swiss Stage
+M6-007;KeepBest Gaming;Lmu;RRQ Hoshi;Valentina;2;4;3;Midlaner;No MVP;Yve,Luoyi,Fanny,Phoveus,Hylos;Swiss Stage
+M6-007;KeepBest Gaming;Windreturn;RRQ Hoshi;Hilda;3;6;0;Explaner;No MVP;Yve,Luoyi,Fanny,Phoveus,Hylos;Swiss Stage
+M6-007;KeepBest Gaming;Belexi;RRQ Hoshi;Beatrix;0;4;3;Goldlaner;No MVP;Yve,Luoyi,Fanny,Phoveus,Hylos;Swiss Stage
+M6-007;KeepBest Gaming;Tracy;RRQ Hoshi;Belerick;2;8;3;Roamer;No MVP;Yve,Luoyi,Fanny,Phoveus,Hylos;Swiss Stage
+M6-007;RRQ Hoshi;Sutsujin;RRQ Hoshi;Fredrin;4;1;13;Jungler;No MVP;Kaja,Granger,Mathilda,Chip,Freya;Swiss Stage
+M6-007;RRQ Hoshi;Rinz;RRQ Hoshi;Zhuxin;6;1;17;Midlaner;No MVP;Kaja,Granger,Mathilda,Chip,Freya;Swiss Stage
+M6-007;RRQ Hoshi;Dyrenn;RRQ Hoshi;Cici;5;1;12;Explaner;No MVP;Kaja,Granger,Mathilda,Chip,Freya;Swiss Stage
+M6-007;RRQ Hoshi;Skylar;RRQ Hoshi;Bruno;11;2;10;Goldlaner;MVP;Kaja,Granger,Mathilda,Chip,Freya;Swiss Stage
+M6-007;RRQ Hoshi;Idok;RRQ Hoshi;Chou;0;3;10;Roamer;No MVP;Kaja,Granger,Mathilda,Chip,Freya;Swiss Stage
+M6-008;Team Liquid;Favian;Fnatic Onic Ph;ling;1;5;2;Jungler;No MVP;Phoveus,Hayabusa,Joy,Gatotkaca,Beatrix;Swiss Stage
+M6-008;Team Liquid;Yehezkiel;Fnatic Onic Ph;Angela;2;0;3;Midlaner;No MVP;Phoveus,Hayabusa,Joy,Gatotkaca,Beatrix;Swiss Stage
+M6-008;Team Liquid;Aran;Fnatic Onic Ph;Hylos;0;2;1;Explaner;No MVP;Phoveus,Hayabusa,Joy,Gatotkaca,Beatrix;Swiss Stage
+M6-008;Team Liquid;AeronShikii;Fnatic Onic Ph;Natan;1;4;1;Goldlaner;No MVP;Phoveus,Hayabusa,Joy,Gatotkaca,Beatrix;Swiss Stage
+M6-008;Team Liquid;Widy;Fnatic Onic Ph;Khaled;1;4;1;Roamer;No MVP;Phoveus,Hayabusa,Joy,Gatotkaca,Beatrix;Swiss Stage
+M6-008;Fnatic Onic Ph;K1ngkong;Fnatic Onic Ph;Suyou;5;0;1;Jungler;MVP;Cici,Harith,Zhuxin,Mathilda,Fanny;Swiss Stage
+M6-008;Fnatic Onic Ph;Super Frince;Fnatic Onic Ph;Luoyi;2;1;12;Midlaner;No MVP;Cici,Harith,Zhuxin,Mathilda,Fanny;Swiss Stage
+M6-008;Fnatic Onic Ph;Kirk;Fnatic Onic Ph;Hilda;2;2;7;Explaner;No MVP;Cici,Harith,Zhuxin,Mathilda,Fanny;Swiss Stage
+M6-008;Fnatic Onic Ph;kelra;Fnatic Onic Ph;Bruno;5;0;6;Goldlaner;No MVP;Cici,Harith,Zhuxin,Mathilda,Fanny;Swiss Stage
+M6-008;Fnatic Onic Ph;Brusko;Fnatic Onic Ph;Chou;1;2;8;Roamer;No MVP;Cici,Harith,Zhuxin,Mathilda,Fanny;Swiss Stage
+M6-009;S2G Esports;Kazue;BloodThirstyKings;Suyou;1;2;1;Jungler;No MVP;Alpha,Luoyi,Hylos,Chou,Arlot;Swiss Stage
+M6-009;S2G Esports;Begin;BloodThirstyKings;Valentina;0;1;4;Midlaner;No MVP;Alpha,Luoyi,Hylos,Chou,Arlot;Swiss Stage
+M6-009;S2G Esports;Lunar;BloodThirstyKings;Edith;2;3;1;Explaner;No MVP;Alpha,Luoyi,Hylos,Chou,Arlot;Swiss Stage
+M6-009;S2G Esports;Sigibum;BloodThirstyKings;Beatrix;2;1;2;Goldlaner;No MVP;Alpha,Luoyi,Hylos,Chou,Arlot;Swiss Stage
+M6-009;S2G Esports;Pagu;BloodThirstyKings;Mathilda;0;1;4;Roamer;No MVP;Alpha,Luoyi,Hylos,Chou,Arlot;Swiss Stage
+M6-009;BloodThirstyKings;Mobazane;BloodThirstyKings;Fredrin;3;0;4;Jungler;No MVP;Vexana,Gloo,Hilda,Zhuxin,Fanny;Swiss Stage
+M6-009;BloodThirstyKings;Hoon;BloodThirstyKings;Yve;0;1;3;Midlaner;No MVP;Vexana,Gloo,Hilda,Zhuxin,Fanny;Swiss Stage
+M6-009;BloodThirstyKings;Fwydchicken;BloodThirstyKings;Phoveus;1;1;5;Explaner;No MVP;Vexana,Gloo,Hilda,Zhuxin,Fanny;Swiss Stage
+M6-009;BloodThirstyKings;Zia;BloodThirstyKings;Bruno;4;1;3;Goldlaner;No MVP;Vexana,Gloo,Hilda,Zhuxin,Fanny;Swiss Stage
+M6-009;BloodThirstyKings;Shark;BloodThirstyKings;Guinevere;0;2;5;Roamer;MVP;Vexana,Gloo,Hilda,Zhuxin,Fanny;Swiss Stage
+M6-010;Twisted Minds;70da;Twisted Minds;Alpha;2;10;8;Jungler;No MVP;Hilda,Yve,Hylos,Beatrix,Nolan;Swiss Stage
+M6-010;Twisted Minds;Cuffin;Twisted Minds;Cecilion;7;0;10;Midlaner;No MVP;Hilda,Yve,Hylos,Beatrix,Nolan;Swiss Stage
+M6-010;Twisted Minds;Sanjii;Twisted Minds;Edith;1;8;9;Explaner;No MVP;Hilda,Yve,Hylos,Beatrix,Nolan;Swiss Stage
+M6-010;Twisted Minds;Saano;Twisted Minds;Bruno;6;0;12;Goldlaner;MVP;Hilda,Yve,Hylos,Beatrix,Nolan;Swiss Stage
+M6-010;Twisted Minds;Troll;Twisted Minds;Mathilda;5;4;14;Roamer;No MVP;Hilda,Yve,Hylos,Beatrix,Nolan;Swiss Stage
+M6-010;Falcon Esports;Daxx;Twisted Minds;Hayabusa;4;4;13;Jungler;No MVP;Aurora,Gatotkaca,Joy,Fanny,Zhuxin;Swiss Stage
+M6-010;Falcon Esports;Px7;Twisted Minds;Vexana;5;3;15;Midlaner;No MVP;Aurora,Gatotkaca,Joy,Fanny,Zhuxin;Swiss Stage
+M6-010;Falcon Esports;Royalmilk;Twisted Minds;Phoveus;4;6;13;Explaner;No MVP;Aurora,Gatotkaca,Joy,Fanny,Zhuxin;Swiss Stage
+M6-010;Falcon Esports;beni;Twisted Minds;Wanwan;9;4;7;Goldlaner;No MVP;Aurora,Gatotkaca,Joy,Fanny,Zhuxin;Swiss Stage
+M6-010;Falcon Esports;kidx;Twisted Minds;Tigreal;0;4;16;Roamer;No MVP;Aurora,Gatotkaca,Joy,Fanny,Zhuxin;Swiss Stage
+M6-011;Maycam Evolve;Auroraa;Team Vamos;Suyou;0;3;2;Jungler;No MVP;Chou,Luoyi,Fanny,Valentina,Cecilion;Swiss Stage
+M6-011;Maycam Evolve;Feshin;Team Vamos;Yve;0;2;2;Midlaner;No MVP;Chou,Luoyi,Fanny,Valentina,Cecilion;Swiss Stage
+M6-011;Maycam Evolve;Markinho;Team Vamos;Hilda;2;3;0;Explaner;No MVP;Chou,Luoyi,Fanny,Valentina,Cecilion;Swiss Stage
+M6-011;Maycam Evolve;Yurokkotsu;Team Vamos;Beatrix;2;0;1;Goldlaner;No MVP;Chou,Luoyi,Fanny,Valentina,Cecilion;Swiss Stage
+M6-011;Maycam Evolve;Supernahuel;Team Vamos;Tigreal;0;3;1;Roamer;No MVP;Chou,Luoyi,Fanny,Valentina,Cecilion;Swiss Stage
+M6-011;Team Vamos;Chibi;Team Vamos;Joy;5;1;4;Jungler;MVP;Wanwan,Harith,Hylos,Hayabusa,Zhuxin;Swiss Stage
+M6-011;Team Vamos;Warlord;Team Vamos;Gatotkaca;0;0;8;Midlaner;No MVP;Wanwan,Harith,Hylos,Hayabusa,Zhuxin;Swiss Stage
+M6-011;Team Vamos;Smooth;Team Vamos;Phoveus;2;2;5;Explaner;No MVP;Wanwan,Harith,Hylos,Hayabusa,Zhuxin;Swiss Stage
+M6-011;Team Vamos;Nets;Team Vamos;Bruno;2;0;1;Goldlaner;No MVP;Wanwan,Harith,Hylos,Hayabusa,Zhuxin;Swiss Stage
+M6-011;Team Vamos;Xorn;Team Vamos;Helcurt;2;1;7;Roamer;No MVP;Wanwan,Harith,Hylos,Hayabusa,Zhuxin;Swiss Stage
+M6-012;Aurora Gaming;Demonkite;NIP Flash;Alpha;2;3;3;Jungler;No MVP;Phoveus,Hilda,Bruno,Hayabusa,Xborg;Swiss Stage
+M6-012;Aurora Gaming;Yue;NIP Flash;Zhuxin;2;5;4;Midlaner;No MVP;Phoveus,Hilda,Bruno,Hayabusa,Xborg;Swiss Stage
+M6-012;Aurora Gaming;Edward;NIP Flash;Gatotkaca;1;3;2;Explaner;No MVP;Phoveus,Hilda,Bruno,Hayabusa,Xborg;Swiss Stage
+M6-012;Aurora Gaming;Domeng;NIP Flash;Beatrix;1;3;3;Goldlaner;No MVP;Phoveus,Hilda,Bruno,Hayabusa,Xborg;Swiss Stage
+M6-012;Aurora Gaming;Renejay;NIP Flash;Kaja;2;3;5;Roamer;No MVP;Phoveus,Hilda,Bruno,Hayabusa,Xborg;Swiss Stage
+M6-012;NIP Flash;Hadess;NIP Flash;Joy;5;0;8;Jungler;MVP;Edith,Rafaela,Suyou,Fanny,Mathilda;Swiss Stage
+M6-012;NIP Flash;Kurttzy;NIP Flash;Yve;4;2;10;Midlaner;No MVP;Edith,Rafaela,Suyou,Fanny,Mathilda;Swiss Stage
+M6-012;NIP Flash;Diablo;NIP Flash;Hylos;1;2;12;Explaner;No MVP;Edith,Rafaela,Suyou,Fanny,Mathilda;Swiss Stage
+M6-012;NIP Flash;Vanix;NIP Flash;Moskov;7;0;3;Goldlaner;No MVP;Edith,Rafaela,Suyou,Fanny,Mathilda;Swiss Stage
+M6-012;NIP Flash;JPL;NIP Flash;Chou;0;4;8;Roamer;No MVP;Edith,Rafaela,Suyou,Fanny,Mathilda;Swiss Stage
+M6-013;Team Liquid;Favian;Team Liquid;Joy;6;0;7;Jungler;No MVP;Freya,Phoveus,Hilda,Mathilda,hayabusa;Swiss Stage
+M6-013;Team Liquid;Yehezkiel;Team Liquid;Zhuxin;1;0;10;Midlaner;No MVP;Freya,Phoveus,Hilda,Mathilda,hayabusa;Swiss Stage
+M6-013;Team Liquid;Aran;Team Liquid;Gloo;2;1;12;Explaner;MVP;Freya,Phoveus,Hilda,Mathilda,hayabusa;Swiss Stage
+M6-013;Team Liquid;AeronShikii;Team Liquid;Granger;6;0;4;Goldlaner;No MVP;Freya,Phoveus,Hilda,Mathilda,hayabusa;Swiss Stage
+M6-013;Team Liquid;Widy;Team Liquid;Chou;0;1;6;Roamer;No MVP;Freya,Phoveus,Hilda,Mathilda,hayabusa;Swiss Stage
+M6-013;KeepBest Gaming;Saxa;Team Liquid;Bane;2;3;0;Jungler;No MVP;Beatrix,Khaled,Alpha,Suyou,Fanny;Swiss Stage
+M6-013;KeepBest Gaming;Lmu;Team Liquid;Yve;0;2;2;Midlaner;No MVP;Beatrix,Khaled,Alpha,Suyou,Fanny;Swiss Stage
+M6-013;KeepBest Gaming;Windreturn;Team Liquid;Hylos;0;5;2;Explaner;No MVP;Beatrix,Khaled,Alpha,Suyou,Fanny;Swiss Stage
+M6-013;KeepBest Gaming;Belexi;Team Liquid;Bruno;0;2;0;Goldlaner;No MVP;Beatrix,Khaled,Alpha,Suyou,Fanny;Swiss Stage
+M6-013;KeepBest Gaming;Tracy;Team Liquid;Gatotkaca;0;3;2;Roamer;No MVP;Beatrix,Khaled,Alpha,Suyou,Fanny;Swiss Stage
+M6-014; ULFHEDNAR;Tienzy; Selangor Red Giants;Hayabusa;4;2;3;Jungler;No MVP;Alpha,Suyou,Yve,Ling,Khaled;Swiss Stage
+M6-014; ULFHEDNAR;Rosa; Selangor Red Giants;Pharsa;2;3;6;Midlaner;No MVP;Alpha,Suyou,Yve,Ling,Khaled;Swiss Stage
+M6-014; ULFHEDNAR;Alien; Selangor Red Giants;Hylos;1;4;3;Explaner;No MVP;Alpha,Suyou,Yve,Ling,Khaled;Swiss Stage
+M6-014; ULFHEDNAR;Sunshine; Selangor Red Giants;Harith;2;2;2;Goldlaner;No MVP;Alpha,Suyou,Yve,Ling,Khaled;Swiss Stage
+M6-014; ULFHEDNAR;Apex47; Selangor Red Giants;Tigreal;0;5;4;Roamer;No MVP;Alpha,Suyou,Yve,Ling,Khaled;Swiss Stage
+M6-014; Selangor Red Giants;Sekys; Selangor Red Giants;Fredrin;1;3;11;Jungler;No MVP;Cici,Aurora,Zhuxin,Hilda,Fanny;Swiss Stage
+M6-014; Selangor Red Giants;Stormie; Selangor Red Giants;Luoyi;2;2;9;Midlaner;No MVP;Cici,Aurora,Zhuxin,Hilda,Fanny;Swiss Stage
+M6-014; Selangor Red Giants;Kramm; Selangor Red Giants;Phoveus;3;1;6;Explaner;No MVP;Cici,Aurora,Zhuxin,Hilda,Fanny;Swiss Stage
+M6-014; Selangor Red Giants;Innocent; Selangor Red Giants;Bruno;9;0;4;Goldlaner;MVP;Cici,Aurora,Zhuxin,Hilda,Fanny;Swiss Stage
+M6-014; Selangor Red Giants;Yums; Selangor Red Giants;Chou;1;3;4;Roamer;No MVP;Cici,Aurora,Zhuxin,Hilda,Fanny;Swiss Stage
+M6-015;Fnatic Onic Ph;K1ngkong;Fnatic Onic Ph;Suyou;8;1;5;Jungler;No MVP;Hylos,Mathilda,Bruno,Gatotkaca,Tigreal;Swiss Stage
+M6-015;Fnatic Onic Ph;Super Frince;Fnatic Onic Ph;Cecilion;4;1;12;Midlaner;MVP;Hylos,Mathilda,Bruno,Gatotkaca,Tigreal;Swiss Stage
+M6-015;Fnatic Onic Ph;Kirk;Fnatic Onic Ph;Chou;1;2;8;Explaner;No MVP;Hylos,Mathilda,Bruno,Gatotkaca,Tigreal;Swiss Stage
+M6-015;Fnatic Onic Ph;kelra;Fnatic Onic Ph;Harith;4;2;11;Goldlaner;No MVP;Hylos,Mathilda,Bruno,Gatotkaca,Tigreal;Swiss Stage
+M6-015;Fnatic Onic Ph;Brusko;Fnatic Onic Ph;Khaled;1;5;10;Roamer;No MVP;Hylos,Mathilda,Bruno,Gatotkaca,Tigreal;Swiss Stage
+M6-015;CFU Gaming;Detective;Fnatic Onic Ph;Alpha;2;5;6;Jungler;No MVP;Wanwan,Granger,Joy,Zhuxin,Fanny;Swiss Stage
+M6-015;CFU Gaming;Zee;Fnatic Onic Ph;Luoyi;5;2;6;Midlaner;No MVP;Wanwan,Granger,Joy,Zhuxin,Fanny;Swiss Stage
+M6-015;CFU Gaming;Wadu;Fnatic Onic Ph;Hilda;1;5;6;Explaner;No MVP;Wanwan,Granger,Joy,Zhuxin,Fanny;Swiss Stage
+M6-015;CFU Gaming;Xingg;Fnatic Onic Ph;Beatrix;3;1;6;Goldlaner;No MVP;Wanwan,Granger,Joy,Zhuxin,Fanny;Swiss Stage
+M6-015;CFU Gaming;Oppi;Fnatic Onic Ph;Franco;0;5;9;Roamer;No MVP;Wanwan,Granger,Joy,Zhuxin,Fanny;Swiss Stage
+M6-016; Team Spirit;Oneshot;RRQ Hoshi;Alpha;1;4;4;Jungler;No MVP;Yve,Mathilda,Bruno,Angela,Luoyi;Swiss Stage
+M6-016; Team Spirit;Sunsetlover;RRQ Hoshi;Zhuxin;1;2;10;Midlaner;No MVP;Yve,Mathilda,Bruno,Angela,Luoyi;Swiss Stage
+M6-016; Team Spirit;Kidbomba;RRQ Hoshi;Akai;1;1;5;Explaner;No MVP;Yve,Mathilda,Bruno,Angela,Luoyi;Swiss Stage
+M6-016; Team Spirit;Hiko;RRQ Hoshi;Granger;9;1;4;Goldlaner;No MVP;Yve,Mathilda,Bruno,Angela,Luoyi;Swiss Stage
+M6-016; Team Spirit;Sawo;RRQ Hoshi;Hylos;1;5;11;Roamer;No MVP;Yve,Mathilda,Bruno,Angela,Luoyi;Swiss Stage
+M6-016;RRQ Hoshi;Sutsujin;RRQ Hoshi;Suyou;4;2;3;Jungler;No MVP;Beatrix,Moskov,Chip,Hilda,Fanny;Swiss Stage
+M6-016;RRQ Hoshi;Rinz;RRQ Hoshi;Aurora;2;2;7;Midlaner;No MVP;Beatrix,Moskov,Chip,Hilda,Fanny;Swiss Stage
+M6-016;RRQ Hoshi;Dyrenn;RRQ Hoshi;Gloo;1;4;7;Explaner;No MVP;Beatrix,Moskov,Chip,Hilda,Fanny;Swiss Stage
+M6-016;RRQ Hoshi;Skylar;RRQ Hoshi;Wanwan;5;0;3;Goldlaner;MVP;Beatrix,Moskov,Chip,Hilda,Fanny;Swiss Stage
+M6-016;RRQ Hoshi;Idok;RRQ Hoshi;Chou;1;5;5;Roamer;No MVP;Beatrix,Moskov,Chip,Hilda,Fanny;Swiss Stage
+M6-017;KeepBest Gaming;Saxa;KeepBest Gaming;Suyou;4;0;3;Jungler;No MVP;Yve,YiSuShin,Hilda,Cici,Phoveus;Swiss Stage
+M6-017;KeepBest Gaming;Lmu;KeepBest Gaming;Vexana;5;2;7;Midlaner;MVP;Yve,YiSuShin,Hilda,Cici,Phoveus;Swiss Stage
+M6-017;KeepBest Gaming;Windreturn;KeepBest Gaming;Hylos;2;0;9;Explaner;No MVP;Yve,YiSuShin,Hilda,Cici,Phoveus;Swiss Stage
+M6-017;KeepBest Gaming;Belexi;KeepBest Gaming;Beatrix;3;1;5;Goldlaner;No MVP;Yve,YiSuShin,Hilda,Cici,Phoveus;Swiss Stage
+M6-017;KeepBest Gaming;Tracy;KeepBest Gaming;Chou;0;2;8;Roamer;No MVP;Yve,YiSuShin,Hilda,Cici,Phoveus;Swiss Stage
+M6-017;Maycam Evolve;Auroraa;KeepBest Gaming;Fredrin;2;4;3;Jungler;No MVP;Moskov,Granger,Zhuxin,Luoyi,Freya;Swiss Stage
+M6-017;Maycam Evolve;Feshin;KeepBest Gaming;Cecilion;1;1;4;Midlaner;No MVP;Moskov,Granger,Zhuxin,Luoyi,Freya;Swiss Stage
+M6-017;Maycam Evolve;Markinho;KeepBest Gaming;Paquito;1;4;2;Explaner;No MVP;Moskov,Granger,Zhuxin,Luoyi,Freya;Swiss Stage
+M6-017;Maycam Evolve;Yurokkotsu;KeepBest Gaming;Bruno;1;1;4;Goldlaner;No MVP;Moskov,Granger,Zhuxin,Luoyi,Freya;Swiss Stage
+M6-017;Maycam Evolve;Supernahuel;KeepBest Gaming;Mathilda;0;4;3;Roamer;No MVP;Moskov,Granger,Zhuxin,Luoyi,Freya;Swiss Stage
+M6-018;S2G Esports;Kazue;NIP Flash;Hayabusa;5;0;1;Jungler;No MVP;Luoyi,Alpha,Fanny,Joy,Yve;Swiss Stage
+M6-018;S2G Esports;Begin;NIP Flash;Pharsa;1;1;4;Midlaner;No MVP;Luoyi,Alpha,Fanny,Joy,Yve;Swiss Stage
+M6-018;S2G Esports;Lunar;NIP Flash;Khaled;0;2;4;Explaner;No MVP;Luoyi,Alpha,Fanny,Joy,Yve;Swiss Stage
+M6-018;S2G Esports;Sigibum;NIP Flash;Bruno;0;3;4;Goldlaner;No MVP;Luoyi,Alpha,Fanny,Joy,Yve;Swiss Stage
+M6-018;S2G Esports;Pagu;NIP Flash;Gatotkaca;0;4;5;Roamer;No MVP;Luoyi,Alpha,Fanny,Joy,Yve;Swiss Stage
+M6-018;NIP Flash;Hadess;NIP Flash;Ling;5;1;5;Jungler;MVP;Valentina,Zhuxin,Suyou,Hilda,Mathilda;Swiss Stage
+M6-018;NIP Flash;Kurttzy;NIP Flash;Angela;2;0;7;Midlaner;No MVP;Valentina,Zhuxin,Suyou,Hilda,Mathilda;Swiss Stage
+M6-018;NIP Flash;Diablo;NIP Flash;Hylos;0;1;8;Explaner;No MVP;Valentina,Zhuxin,Suyou,Hilda,Mathilda;Swiss Stage
+M6-018;NIP Flash;Vanix;NIP Flash;Moskov;3;0;4;Goldlaner;No MVP;Valentina,Zhuxin,Suyou,Hilda,Mathilda;Swiss Stage
+M6-018;NIP Flash;JPL;NIP Flash;Chou;0;4;4;Roamer;No MVP;Valentina,Zhuxin,Suyou,Hilda,Mathilda;Swiss Stage
+M6-019;Falcon Esports;Daxx;Falcon Esports;Joy;6;1;2;Jungler;MVP;Yve,Mathilda,Chou,Beatrix,Franco;Swiss Stage
+M6-019;Falcon Esports;Px7;Falcon Esports;Vexana;1;2;2;Midlaner;No MVP;Yve,Mathilda,Chou,Beatrix,Franco;Swiss Stage
+M6-019;Falcon Esports;Royalmilk;Falcon Esports;Edith;0;4;3;Explaner;No MVP;Yve,Mathilda,Chou,Beatrix,Franco;Swiss Stage
+M6-019;Falcon Esports;beni;Falcon Esports;Bruno;4;3;1;Goldlaner;No MVP;Yve,Mathilda,Chou,Beatrix,Franco;Swiss Stage
+M6-019;Falcon Esports;kidx;Falcon Esports;Tigreal;0;5;4;Roamer;No MVP;Yve,Mathilda,Chou,Beatrix,Franco;Swiss Stage
+M6-019; Selangor Red Giants;Sekys;Falcon Esports;Suyou;5;3;6;Jungler;No MVP;Chip,Phoveus,Hilda,Fanny,Zhuxin;Swiss Stage
+M6-019; Selangor Red Giants;Stormie;Falcon Esports;Luoyi;3;2;10;Midlaner;No MVP;Chip,Phoveus,Hilda,Fanny,Zhuxin;Swiss Stage
+M6-019; Selangor Red Giants;Kramm;Falcon Esports;Hylos;0;3;13;Explaner;No MVP;Chip,Phoveus,Hilda,Fanny,Zhuxin;Swiss Stage
+M6-019; Selangor Red Giants;Innocent;Falcon Esports;Granger;5;3;7;Goldlaner;No MVP;Chip,Phoveus,Hilda,Fanny,Zhuxin;Swiss Stage
+M6-019; Selangor Red Giants;Yums;Falcon Esports;Guinevere;2;0;9;Roamer;No MVP;Chip,Phoveus,Hilda,Fanny,Zhuxin;Swiss Stage
+M6-020;Twisted Minds;70da;RRQ Hoshi;Joy;2;1;1;Jungler;No MVP;Hilda,Yve,Luoyi,Aurora,Valentina;Swiss Stage
+M6-020;Twisted Minds;Cuffin;RRQ Hoshi;Zhuxin;0;3;4;Midlaner;No MVP;Hilda,Yve,Luoyi,Aurora,Valentina;Swiss Stage
+M6-020;Twisted Minds;Sanjii;RRQ Hoshi;Hylos;1;5;2;Explaner;No MVP;Hilda,Yve,Luoyi,Aurora,Valentina;Swiss Stage
+M6-020;Twisted Minds;Saano;RRQ Hoshi;Moskov;0;2;2;Goldlaner;No MVP;Hilda,Yve,Luoyi,Aurora,Valentina;Swiss Stage
+M6-020;Twisted Minds;Troll;RRQ Hoshi;Gatotkaca;1;4;2;Roamer;No MVP;Hilda,Yve,Luoyi,Aurora,Valentina;Swiss Stage
+M6-020;RRQ Hoshi;Sutsujin;RRQ Hoshi;Suyou;8;0;4;Jungler;MVP;Granger,Nolan,Bruno,Fanny,Mathilda;Swiss Stage
+M6-020;RRQ Hoshi;Rinz;RRQ Hoshi;Kadita;1;2;7;Midlaner;No MVP;Granger,Nolan,Bruno,Fanny,Mathilda;Swiss Stage
+M6-020;RRQ Hoshi;Dyrenn;RRQ Hoshi;Gloo;0;1;12;Explaner;No MVP;Granger,Nolan,Bruno,Fanny,Mathilda;Swiss Stage
+M6-020;RRQ Hoshi;Skylar;RRQ Hoshi;Wanwan;6;1;7;Goldlaner;No MVP;Granger,Nolan,Bruno,Fanny,Mathilda;Swiss Stage
+M6-020;RRQ Hoshi;Idok;RRQ Hoshi;Chou;0;0;10;Roamer;No MVP;Granger,Nolan,Bruno,Fanny,Mathilda;Swiss Stage
+M6-021; ULFHEDNAR;Tienzy;Aurora Gaming;Joy;0;1;5;Jungler;No MVP;Chou,Mathilda,Bruno,Chip,Angela;Swiss Stage
+M6-021; ULFHEDNAR;Rosa;Aurora Gaming;Luoyi;5;4;2;Midlaner;No MVP;Chou,Mathilda,Bruno,Chip,Angela;Swiss Stage
+M6-021; ULFHEDNAR;Alien;Aurora Gaming;Hilda;0;5;5;Explaner;No MVP;Chou,Mathilda,Bruno,Chip,Angela;Swiss Stage
+M6-021; ULFHEDNAR;Sunshine;Aurora Gaming;Granger;3;1;4;Goldlaner;No MVP;Chou,Mathilda,Bruno,Chip,Angela;Swiss Stage
+M6-021; ULFHEDNAR;Apex47;Aurora Gaming;Hylos;0;5;8;Roamer;No MVP;Chou,Mathilda,Bruno,Chip,Angela;Swiss Stage
+M6-021;Aurora Gaming;Demonkite;Aurora Gaming;Alpha;4;2;7;Jungler;No MVP;Hayabusa,Harith,Yve,Zhuxin,Fanny;Swiss Stage
+M6-021;Aurora Gaming;Yue;Aurora Gaming;Vexana;3;0;12;Midlaner;No MVP;Hayabusa,Harith,Yve,Zhuxin,Fanny;Swiss Stage
+M6-021;Aurora Gaming;Edward;Aurora Gaming;Phoveus;5;2;8;Explaner;No MVP;Hayabusa,Harith,Yve,Zhuxin,Fanny;Swiss Stage
+M6-021;Aurora Gaming;Domeng;Aurora Gaming;Moskov;3;0;9;Goldlaner;MVP;Hayabusa,Harith,Yve,Zhuxin,Fanny;Swiss Stage
+M6-021;Aurora Gaming;Renejay;Aurora Gaming;Tigreal;1;4;8;Roamer;No MVP;Hayabusa,Harith,Yve,Zhuxin,Fanny;Swiss Stage
+M6-022;CFU Gaming;Detective;CFU Gaming;Hayabusa;4;2;6;Jungler;No MVP;Yve,Khaled,Suyou,Harith,Hilda;Swiss Stage
+M6-022;CFU Gaming;Zee;CFU Gaming;Valentina;5;2;5;Midlaner;No MVP;Yve,Khaled,Suyou,Harith,Hilda;Swiss Stage
+M6-022;CFU Gaming;Wadu;CFU Gaming;Phoveus;2;5;4;Explaner;No MVP;Yve,Khaled,Suyou,Harith,Hilda;Swiss Stage
+M6-022;CFU Gaming;Xingg;CFU Gaming;Natan;8;2;5;Goldlaner;MVP;Yve,Khaled,Suyou,Harith,Hilda;Swiss Stage
+M6-022;CFU Gaming;Oppi;CFU Gaming;Chou;0;3;9;Roamer;No MVP;Yve,Khaled,Suyou,Harith,Hilda;Swiss Stage
+M6-022;Team Vamos;Chibi;CFU Gaming;Joy;4;3;7;Jungler;No MVP;Claude,Wanwan,Hylos,Zhuxin,Bruno;Swiss Stage
+M6-022;Team Vamos;Warlord;CFU Gaming;Gatotkaca;1;5;8;Midlaner;No MVP;Claude,Wanwan,Hylos,Zhuxin,Bruno;Swiss Stage
+M6-022;Team Vamos;Smooth;CFU Gaming;Gloo;2;3;7;Explaner;No MVP;Claude,Wanwan,Hylos,Zhuxin,Bruno;Swiss Stage
+M6-022;Team Vamos;Nets;CFU Gaming;Moskov;2;5;4;Goldlaner;No MVP;Claude,Wanwan,Hylos,Zhuxin,Bruno;Swiss Stage
+M6-022;Team Vamos;Xorn;CFU Gaming;Helcurt;5;3;4;Roamer;No MVP;Claude,Wanwan,Hylos,Zhuxin,Bruno;Swiss Stage
+M6-023; Team Spirit;Oneshot; Team Spirit;Fanny;6;1;5;Jungler;MVP;Zhuxin,Angela,Yve,Khufra,Tigreal;Swiss Stage
+M6-023; Team Spirit;Sunsetlover; Team Spirit;Valentina;4;2;7;Midlaner;No MVP;Zhuxin,Angela,Yve,Khufra,Tigreal;Swiss Stage
+M6-023; Team Spirit;Kidbomba; Team Spirit;Gloo;1;2;11;Explaner;No MVP;Zhuxin,Angela,Yve,Khufra,Tigreal;Swiss Stage
+M6-023; Team Spirit;Hiko; Team Spirit;Beatrix;4;2;5;Goldlaner;No MVP;Zhuxin,Angela,Yve,Khufra,Tigreal;Swiss Stage
+M6-023; Team Spirit;Sawo; Team Spirit;Belerick;1;1;12;Roamer;No MVP;Zhuxin,Angela,Yve,Khufra,Tigreal;Swiss Stage
+M6-023;Team Liquid;Favian; Team Spirit;Joy;4;4;2;Jungler;No MVP;Chip,Luoyi,Hylos,Bruno,Hilda;Swiss Stage
+M6-023;Team Liquid;Yehezkiel; Team Spirit;Vexana;0;3;4;Midlaner;No MVP;Chip,Luoyi,Hylos,Bruno,Hilda;Swiss Stage
+M6-023;Team Liquid;Aran; Team Spirit;Phoveus;1;3;4;Explaner;No MVP;Chip,Luoyi,Hylos,Bruno,Hilda;Swiss Stage
+M6-023;Team Liquid;AeronShikii; Team Spirit;Moskov;2;2;3;Goldlaner;No MVP;Chip,Luoyi,Hylos,Bruno,Hilda;Swiss Stage
+M6-023;Team Liquid;Widy; Team Spirit;Gatotkaca;1;4;4;Roamer;No MVP;Chip,Luoyi,Hylos,Bruno,Hilda;Swiss Stage
+M6-024;Fnatic Onic Ph;K1ngkong;Fnatic Onic Ph;Joy;5;0;6;Jungler;No MVP;Hylos,Fredrin,Mathilda,Akai,Tigreal;Swiss Stage
+M6-024;Fnatic Onic Ph;Super Frince;Fnatic Onic Ph;Yve;2;0;14;Midlaner;No MVP;Hylos,Fredrin,Mathilda,Akai,Tigreal;Swiss Stage
+M6-024;Fnatic Onic Ph;Kirk;Fnatic Onic Ph;Chou;0;2;11;Explaner;No MVP;Hylos,Fredrin,Mathilda,Akai,Tigreal;Swiss Stage
+M6-024;Fnatic Onic Ph;kelra;Fnatic Onic Ph;Irithel;11;1;5;Goldlaner;MVP;Hylos,Fredrin,Mathilda,Akai,Tigreal;Swiss Stage
+M6-024;Fnatic Onic Ph;Brusko;Fnatic Onic Ph;Gatotkaca;1;1;17;Roamer;No MVP;Hylos,Fredrin,Mathilda,Akai,Tigreal;Swiss Stage
+M6-024;BloodThirstyKings;Mobazane;Fnatic Onic Ph;Suyou;2;5;0;Jungler;No MVP;Claude,Khaled,Bruno,Zhuxin,Fanny;Swiss Stage
+M6-024;BloodThirstyKings;Hoon;Fnatic Onic Ph;Valentina;1;3;2;Midlaner;No MVP;Claude,Khaled,Bruno,Zhuxin,Fanny;Swiss Stage
+M6-024;BloodThirstyKings;Fwydchicken;Fnatic Onic Ph;hilda;0;4;2;Explaner;No MVP;Claude,Khaled,Bruno,Zhuxin,Fanny;Swiss Stage
+M6-024;BloodThirstyKings;Zia;Fnatic Onic Ph;Wanwan;1;3;2;Goldlaner;No MVP;Claude,Khaled,Bruno,Zhuxin,Fanny;Swiss Stage
+M6-024;BloodThirstyKings;Shark;Fnatic Onic Ph;Edith;0;4;3;Roamer;No MVP;Claude,Khaled,Bruno,Zhuxin,Fanny;Swiss Stage
+M6-025;Twisted Minds;70da;NIP Flash;Suyou;3;4;3;Jungler;No MVP;Yve,Chou,Hilda,Natan,Harith;Swiss Stage
+M6-025;Twisted Minds;Cuffin;NIP Flash;Luoyi;0;3;4;Midlaner;No MVP;Yve,Chou,Hilda,Natan,Harith;Swiss Stage
+M6-025;Twisted Minds;Sanjii;NIP Flash;Phoveus;0;2;4;Explaner;No MVP;Yve,Chou,Hilda,Natan,Harith;Swiss Stage
+M6-025;Twisted Minds;Saano;NIP Flash;Granger;3;1;4;Goldlaner;No MVP;Yve,Chou,Hilda,Natan,Harith;Swiss Stage
+M6-025;Twisted Minds;Troll;NIP Flash;Gatotkaca;1;6;4;Roamer;No MVP;Yve,Chou,Hilda,Natan,Harith;Swiss Stage
+M6-025;NIP Flash;Hadess;NIP Flash;Alpha;4;2;9;Jungler;No MVP;Tigreal,Chip,Bruno,Fanny,Mathilda;Swiss Stage
+M6-025;NIP Flash;Kurttzy;NIP Flash;Zhuxin;5;0;7;Midlaner;No MVP;Tigreal,Chip,Bruno,Fanny,Mathilda;Swiss Stage
+M6-025;NIP Flash;Diablo;NIP Flash;Hylos;2;1;13;Explaner;MVP;Tigreal,Chip,Bruno,Fanny,Mathilda;Swiss Stage
+M6-025;NIP Flash;Vanix;NIP Flash;Moskov;2;1;6;Goldlaner;No MVP;Tigreal,Chip,Bruno,Fanny,Mathilda;Swiss Stage
+M6-025;NIP Flash;JPL;NIP Flash;Jawhead;3;3;10;Roamer;No MVP;Tigreal,Chip,Bruno,Fanny,Mathilda;Swiss Stage
+M6-026;Falcon Esports;Daxx;Falcon Esports;Suyou;5;1;5;Jungler;No MVP;Chou,Aurora,Yve,Mathilda,Luoyi;Swiss Stage
+M6-026;Falcon Esports;Px7;Falcon Esports;Vexana;1;1;8;Midlaner;No MVP;Chou,Aurora,Yve,Mathilda,Luoyi;Swiss Stage
+M6-026;Falcon Esports;Royalmilk;Falcon Esports;Phoveus;6;1;6;Explaner;MVP;Chou,Aurora,Yve,Mathilda,Luoyi;Swiss Stage
+M6-026;Falcon Esports;beni;Falcon Esports;Bruno;4;1;6;Goldlaner;No MVP;Chou,Aurora,Yve,Mathilda,Luoyi;Swiss Stage
+M6-026;Falcon Esports;kidx;Falcon Esports;Tigreal;0;2;12;Roamer;No MVP;Chou,Aurora,Yve,Mathilda,Luoyi;Swiss Stage
+M6-026;BloodThirstyKings;Mobazane;Falcon Esports;Fredrin;0;3;3;Jungler;No MVP;Fanny,Cici,Zhuxin,Beatrix,Hayabusa;Swiss Stage
+M6-026;BloodThirstyKings;Hoon;Falcon Esports;Valentina;2;2;2;Midlaner;No MVP;Fanny,Cici,Zhuxin,Beatrix,Hayabusa;Swiss Stage
+M6-026;BloodThirstyKings;Fwydchicken;Falcon Esports;Joy;1;4;5;Explaner;No MVP;Fanny,Cici,Zhuxin,Beatrix,Hayabusa;Swiss Stage
+M6-026;BloodThirstyKings;Zia;Falcon Esports;Granger;3;3;1;Goldlaner;No MVP;Fanny,Cici,Zhuxin,Beatrix,Hayabusa;Swiss Stage
+M6-026;BloodThirstyKings;Shark;Falcon Esports;Hylos;0;4;3;Roamer;No MVP;Fanny,Cici,Zhuxin,Beatrix,Hayabusa;Swiss Stage
+M6-027;CFU Gaming;Detective; Team Spirit;Joy;1;3;1;Jungler;No MVP;Fanny,Mathilda,Hilda,Gatotkaca,Beatrix;Swiss Stage
+M6-027;CFU Gaming;Zee; Team Spirit;Angela;1;2;1;Midlaner;No MVP;Fanny,Mathilda,Hilda,Gatotkaca,Beatrix;Swiss Stage
+M6-027;CFU Gaming;Wadu; Team Spirit;Hylos;0;0;2;Explaner;No MVP;Fanny,Mathilda,Hilda,Gatotkaca,Beatrix;Swiss Stage
+M6-027;CFU Gaming;Xingg; Team Spirit;Claude;0;1;2;Goldlaner;No MVP;Fanny,Mathilda,Hilda,Gatotkaca,Beatrix;Swiss Stage
+M6-027;CFU Gaming;Oppi; Team Spirit;Chou;0;4;0;Roamer;No MVP;Fanny,Mathilda,Hilda,Gatotkaca,Beatrix;Swiss Stage
+M6-027; Team Spirit;Oneshot; Team Spirit;Hayabusa;3;1;7;Jungler;No MVP;Luoyi,Aurora,Yve,Suyou,Bruno;Swiss Stage
+M6-027; Team Spirit;Sunsetlover; Team Spirit;Zhuxin;2;0;11;Midlaner;No MVP;Luoyi,Aurora,Yve,Suyou,Bruno;Swiss Stage
+M6-027; Team Spirit;Kidbomba; Team Spirit;Gloo;2;0;9;Explaner;No MVP;Luoyi,Aurora,Yve,Suyou,Bruno;Swiss Stage
+M6-027; Team Spirit;Hiko; Team Spirit;Wanwan;7;1;3;Goldlaner;No MVP;Luoyi,Aurora,Yve,Suyou,Bruno;Swiss Stage
+M6-027; Team Spirit;Sawo; Team Spirit;Belerick;2;0;11;Roamer;MVP;Luoyi,Aurora,Yve,Suyou,Bruno;Swiss Stage
+M6-028;Team Vamos;Chibi;Team Vamos;Hayabusa;8;1;5;Jungler;MVP;Hilda,Fanny,Bruno,Khaled,Phoveus;Swiss Stage
+M6-028;Team Vamos;Warlord;Team Vamos;Valentina;2;1;6;Midlaner;No MVP;Hilda,Fanny,Bruno,Khaled,Phoveus;Swiss Stage
+M6-028;Team Vamos;Smooth;Team Vamos;Benedetta;1;2;6;Explaner;No MVP;Hilda,Fanny,Bruno,Khaled,Phoveus;Swiss Stage
+M6-028;Team Vamos;Nets;Team Vamos;Karrie;3;0;4;Goldlaner;No MVP;Hilda,Fanny,Bruno,Khaled,Phoveus;Swiss Stage
+M6-028;Team Vamos;Xorn;Team Vamos;Gatotkaca;0;1;9;Roamer;No MVP;Hilda,Fanny,Bruno,Khaled,Phoveus;Swiss Stage
+M6-028;S2G Esports;Kazue;Team Vamos;Suyou;4;3;1;Jungler;No MVP;Chip,Harith,Alpha,Chou,Gloo;Swiss Stage
+M6-028;S2G Esports;Begin;Team Vamos;Zhuxin;1;1;3;Midlaner;No MVP;Chip,Harith,Alpha,Chou,Gloo;Swiss Stage
+M6-028;S2G Esports;Lunar;Team Vamos;Cici;0;6;3;Explaner;No MVP;Chip,Harith,Alpha,Chou,Gloo;Swiss Stage
+M6-028;S2G Esports;Sigibum;Team Vamos;Moskov;0;2;2;Goldlaner;No MVP;Chip,Harith,Alpha,Chou,Gloo;Swiss Stage
+M6-028;S2G Esports;Pagu;Team Vamos;Hylos;0;2;4;Roamer;No MVP;Chip,Harith,Alpha,Chou,Gloo;Swiss Stage
+M6-029;KeepBest Gaming;Saxa; Selangor Red Giants;Joy;0;2;0;Jungler;No MVP;Luoyi,Fanny,Alpha,Harith,Valentina;Swiss Stage
+M6-029;KeepBest Gaming;Lmu; Selangor Red Giants;Aurora;0;1;0;Midlaner;No MVP;Luoyi,Fanny,Alpha,Harith,Valentina;Swiss Stage
+M6-029;KeepBest Gaming;Windreturn; Selangor Red Giants;Edith;0;3;0;Explaner;No MVP;Luoyi,Fanny,Alpha,Harith,Valentina;Swiss Stage
+M6-029;KeepBest Gaming;Belexi; Selangor Red Giants;Moskov;0;2;0;Goldlaner;No MVP;Luoyi,Fanny,Alpha,Harith,Valentina;Swiss Stage
+M6-029;KeepBest Gaming;Tracy; Selangor Red Giants;Chou;0;2;0;Roamer;No MVP;Luoyi,Fanny,Alpha,Harith,Valentina;Swiss Stage
+M6-029; Selangor Red Giants;Sekys; Selangor Red Giants;Suyou;7;0;3;Jungler;MVP;Faramis,Hylos,Phoveus,Bruno,Mathilda;Swiss Stage
+M6-029; Selangor Red Giants;Stormie; Selangor Red Giants;Vexana;0;0;6;Midlaner;No MVP;Faramis,Hylos,Phoveus,Bruno,Mathilda;Swiss Stage
+M6-029; Selangor Red Giants;Kramm; Selangor Red Giants;Hilda;0;0;7;Explaner;No MVP;Faramis,Hylos,Phoveus,Bruno,Mathilda;Swiss Stage
+M6-029; Selangor Red Giants;Innocent; Selangor Red Giants;Natan;2;0;3;Goldlaner;No MVP;Faramis,Hylos,Phoveus,Bruno,Mathilda;Swiss Stage
+M6-029; Selangor Red Giants;Yums; Selangor Red Giants;Tigreal;1;0;7;Roamer;No MVP;Faramis,Hylos,Phoveus,Bruno,Mathilda;Swiss Stage
+M6-030;Aurora Gaming;Demonkite;Team Liquid;Joy;1;3;7;Jungler;No MVP;Yve,Phoveus,Hilda,Valentina,Arlot;Swiss Stage
+M6-030;Aurora Gaming;Yue;Team Liquid;Vexana;3;3;7;Midlaner;No MVP;Yve,Phoveus,Hilda,Valentina,Arlot;Swiss Stage
+M6-030;Aurora Gaming;Edward;Team Liquid;Terizla;2;5;9;Explaner;No MVP;Yve,Phoveus,Hilda,Valentina,Arlot;Swiss Stage
+M6-030;Aurora Gaming;Domeng;Team Liquid;Beatrix;7;2;5;Goldlaner;No MVP;Yve,Phoveus,Hilda,Valentina,Arlot;Swiss Stage
+M6-030;Aurora Gaming;Renejay;Team Liquid;Chou;1;3;7;Roamer;No MVP;Yve,Phoveus,Hilda,Valentina,Arlot;Swiss Stage
+M6-030;Team Liquid;Favian;Team Liquid;Suyou;2;2;7;Jungler;No MVP;Gloo,Edith,Mathilda,Fanny,Zhuxin;Swiss Stage
+M6-030;Team Liquid;Yehezkiel;Team Liquid;Luoyi;3;1;8;Midlaner;No MVP;Gloo,Edith,Mathilda,Fanny,Zhuxin;Swiss Stage
+M6-030;Team Liquid;Aran;Team Liquid;Hylos;2;5;11;Explaner;No MVP;Gloo,Edith,Mathilda,Fanny,Zhuxin;Swiss Stage
+M6-030;Team Liquid;AeronShikii;Team Liquid;Bruno;9;0;5;Goldlaner;MVP;Gloo,Edith,Mathilda,Fanny,Zhuxin;Swiss Stage
+M6-030;Team Liquid;Widy;Team Liquid;Belerick;0;6;11;Roamer;No MVP;Gloo,Edith,Mathilda,Fanny,Zhuxin;Swiss Stage
+M6-031;BloodThirstyKings;Mobazane;Team Vamos;Alpha;0;3;0;Jungler;No MVP;Luoyi,Fredrin,Bruno,Claude,Arlot;Swiss Stage
+M6-031;BloodThirstyKings;Hoon;Team Vamos;Vexana;0;3;1;Midlaner;No MVP;Luoyi,Fredrin,Bruno,Claude,Arlot;Swiss Stage
+M6-031;BloodThirstyKings;Fwydchicken;Team Vamos;Phoveus;1;2;0;Explaner;No MVP;Luoyi,Fredrin,Bruno,Claude,Arlot;Swiss Stage
+M6-031;BloodThirstyKings;Zia;Team Vamos;Granger;0;1;0;Goldlaner;No MVP;Luoyi,Fredrin,Bruno,Claude,Arlot;Swiss Stage
+M6-031;BloodThirstyKings;Shark;Team Vamos;Chou;0;4;0;Roamer;No MVP;Luoyi,Fredrin,Bruno,Claude,Arlot;Swiss Stage
+M6-031;Team Vamos;Chibi;Team Vamos;Suyou;6;0;5;Jungler;No MVP;Gatotkaca,Karrie,Gloo,Hilda,Joy;Swiss Stage
+M6-031;Team Vamos;Warlord;Team Vamos;Cecilion;2;0;7;Midlaner;No MVP;Gatotkaca,Karrie,Gloo,Hilda,Joy;Swiss Stage
+M6-031;Team Vamos;Smooth;Team Vamos;Hylos;0;1;9;Explaner;No MVP;Gatotkaca,Karrie,Gloo,Hilda,Joy;Swiss Stage
+M6-031;Team Vamos;Nets;Team Vamos;Irithel;4;0;6;Goldlaner;MVP;Gatotkaca,Karrie,Gloo,Hilda,Joy;Swiss Stage
+M6-031;Team Vamos;Xorn;Team Vamos;Carmilla;1;0;9;Roamer;No MVP;Gatotkaca,Karrie,Gloo,Hilda,Joy;Swiss Stage
+M6-032;Team Liquid;Favian;Team Liquid;Suyou;3;0;3;Jungler;MVP;Gatotkaca,Gloo,Fanny,Bruno,Zhuxin;Swiss Stage
+M6-032;Team Liquid;Yehezkiel;Team Liquid;Luoyi;2;1;5;Midlaner;No MVP;Gatotkaca,Gloo,Fanny,Bruno,Zhuxin;Swiss Stage
+M6-032;Team Liquid;Aran;Team Liquid;Phoveus;2;1;4;Explaner;No MVP;Gatotkaca,Gloo,Fanny,Bruno,Zhuxin;Swiss Stage
+M6-032;Team Liquid;AeronShikii;Team Liquid;Harith;1;4;4;Goldlaner;No MVP;Gatotkaca,Gloo,Fanny,Bruno,Zhuxin;Swiss Stage
+M6-032;Team Liquid;Widy;Team Liquid;Belerick;0;0;4;Roamer;No MVP;Gatotkaca,Gloo,Fanny,Bruno,Zhuxin;Swiss Stage
+M6-032;Twisted Minds;70da;Team Liquid;Joy;2;2;1;Jungler;No MVP;Yve,Hilda,Hylos,Tigreal,Chip;Swiss Stage
+M6-032;Twisted Minds;Cuffin;Team Liquid;Aurora;2;0;3;Midlaner;No MVP;Yve,Hilda,Hylos,Tigreal,Chip;Swiss Stage
+M6-032;Twisted Minds;Sanjii;Team Liquid;Edith;0;5;4;Explaner;No MVP;Yve,Hilda,Hylos,Tigreal,Chip;Swiss Stage
+M6-032;Twisted Minds;Saano;Team Liquid;Moskov;0;1;1;Goldlaner;No MVP;Yve,Hilda,Hylos,Tigreal,Chip;Swiss Stage
+M6-032;Twisted Minds;Troll;Team Liquid;Chou;2;0;3;Roamer;No MVP;Yve,Hilda,Hylos,Tigreal,Chip;Swiss Stage
+M6-033; Selangor Red Giants;Sekys; Selangor Red Giants;Joy;2;3;7;Jungler;No MVP;Franco,Zhask,Bruno,Luoyi,Zhuxin;Swiss Stage
+M6-033; Selangor Red Giants;Stormie; Selangor Red Giants;Yve;3;0;6;Midlaner;No MVP;Franco,Zhask,Bruno,Luoyi,Zhuxin;Swiss Stage
+M6-033; Selangor Red Giants;Kramm; Selangor Red Giants;hilda;3;2;1;Explaner;No MVP;Franco,Zhask,Bruno,Luoyi,Zhuxin;Swiss Stage
+M6-033; Selangor Red Giants;Innocent; Selangor Red Giants;Moskov;5;0;5;Goldlaner;MVP;Franco,Zhask,Bruno,Luoyi,Zhuxin;Swiss Stage
+M6-033; Selangor Red Giants;Yums; Selangor Red Giants;Tigreal;0;2;6;Roamer;No MVP;Franco,Zhask,Bruno,Luoyi,Zhuxin;Swiss Stage
+M6-033;CFU Gaming;Detective; Selangor Red Giants;Suyou;2;3;3;Jungler;No MVP;Fanny,Chou,Mathilda,Irithel,Gatotkaca;Swiss Stage
+M6-033;CFU Gaming;Zee; Selangor Red Giants;Valentina;1;3;4;Midlaner;No MVP;Fanny,Chou,Mathilda,Irithel,Gatotkaca;Swiss Stage
+M6-033;CFU Gaming;Wadu; Selangor Red Giants;Gloo;0;3;5;Explaner;No MVP;Fanny,Chou,Mathilda,Irithel,Gatotkaca;Swiss Stage
+M6-033;CFU Gaming;Xingg; Selangor Red Giants;Wanwan;4;1;3;Goldlaner;No MVP;Fanny,Chou,Mathilda,Irithel,Gatotkaca;Swiss Stage
+M6-033;CFU Gaming;Oppi; Selangor Red Giants;Khaled;0;3;6;Roamer;No MVP;Fanny,Chou,Mathilda,Irithel,Gatotkaca;Swiss Stage
+M6-034;Falcon Esports;Daxx;Falcon Esports;Fredrin;2;1;10;Jungler;No MVP;Yve,Valenntina,Hylos,Zhuxin,Fanny;Knockout Stage
+M6-034;Falcon Esports;Px7;Falcon Esports;Luoyi;3;1;6;Midlaner;No MVP;Yve,Valenntina,Hylos,Zhuxin,Fanny;Knockout Stage
+M6-034;Falcon Esports;Royalmilk;Falcon Esports;Cici;3;2;5;Explaner;No MVP;Yve,Valenntina,Hylos,Zhuxin,Fanny;Knockout Stage
+M6-034;Falcon Esports;beni;Falcon Esports;Granger;4;0;8;Goldlaner;MVP;Yve,Valenntina,Hylos,Zhuxin,Fanny;Knockout Stage
+M6-034;Falcon Esports;kidx;Falcon Esports;Tigreal;2;2;7;Roamer;No MVP;Yve,Valenntina,Hylos,Zhuxin,Fanny;Knockout Stage
+M6-034;NIP Flash;Hadess;Falcon Esports;Joy;1;3;1;Jungler;No MVP;Phoveus,Hilda,Bruno,Suyou,Hayabusa;Knockout Stage
+M6-034;NIP Flash;Kurttzy;Falcon Esports;Vexana;3;2;2;Midlaner;No MVP;Phoveus,Hilda,Bruno,Suyou,Hayabusa;Knockout Stage
+M6-034;NIP Flash;Diablo;Falcon Esports;Khaled;0;3;3;Explaner;No MVP;Phoveus,Hilda,Bruno,Suyou,Hayabusa;Knockout Stage
+M6-034;NIP Flash;Vanix;Falcon Esports;Moskov;0;3;1;Goldlaner;No MVP;Phoveus,Hilda,Bruno,Suyou,Hayabusa;Knockout Stage
+M6-034;NIP Flash;JPL;Falcon Esports;Chou;1;3;2;Roamer;No MVP;Phoveus,Hilda,Bruno,Suyou,Hayabusa;Knockout Stage
+M6-035;Fnatic Onic Ph;K1ngkong;Fnatic Onic Ph;Joy;4;2;6;Jungler;No MVP;Akai,Hylos,Alpha,Zhuxin,Fanny;Knockout Stage
+M6-035;Fnatic Onic Ph;Super Frince;Fnatic Onic Ph;Yve;3;2;12;Midlaner;No MVP;Akai,Hylos,Alpha,Zhuxin,Fanny;Knockout Stage
+M6-035;Fnatic Onic Ph;Kirk;Fnatic Onic Ph;Gatotkaca;2;1;11;Explaner;No MVP;Akai,Hylos,Alpha,Zhuxin,Fanny;Knockout Stage
+M6-035;Fnatic Onic Ph;kelra;Fnatic Onic Ph;Granger;11;0;6;Goldlaner;MVP;Akai,Hylos,Alpha,Zhuxin,Fanny;Knockout Stage
+M6-035;Fnatic Onic Ph;Brusko;Fnatic Onic Ph;Tigreal;2;2;8;Roamer;No MVP;Akai,Hylos,Alpha,Zhuxin,Fanny;Knockout Stage
+M6-035; Selangor Red Giants;Sekys;Fnatic Onic Ph;Suyou;2;6;1;Jungler;No MVP;Luoyi,Chou,Bruno,Ediith,Khaled;Knockout Stage
+M6-035; Selangor Red Giants;Stormie;Fnatic Onic Ph;Valentina;1;5;3;Midlaner;No MVP;Luoyi,Chou,Bruno,Ediith,Khaled;Knockout Stage
+M6-035; Selangor Red Giants;Kramm;Fnatic Onic Ph;Hilda;1;3;3;Explaner;No MVP;Luoyi,Chou,Bruno,Ediith,Khaled;Knockout Stage
+M6-035; Selangor Red Giants;Innocent;Fnatic Onic Ph;Harith;3;3;1;Goldlaner;No MVP;Luoyi,Chou,Bruno,Ediith,Khaled;Knockout Stage
+M6-035; Selangor Red Giants;Yums;Fnatic Onic Ph;Grock;0;5;3;Roamer;No MVP;Luoyi,Chou,Bruno,Ediith,Khaled;Knockout Stage
+M6-036;RRQ Hoshi;Sutsujin;RRQ Hoshi;Joy;7;2;7;Jungler;No MVP;Akai,Irithel,Zhuxin,Hayabusa,Gloo;Knockout Stage
+M6-036;RRQ Hoshi;Rinz;RRQ Hoshi;Yve;6;1;9;Midlaner;No MVP;Akai,Irithel,Zhuxin,Hayabusa,Gloo;Knockout Stage
+M6-036;RRQ Hoshi;Dyrenn;RRQ Hoshi;Gatotkaca;0;3;12;Explaner;No MVP;Akai,Irithel,Zhuxin,Hayabusa,Gloo;Knockout Stage
+M6-036;RRQ Hoshi;Skylar;RRQ Hoshi;Wanwan;5;0;6;Goldlaner;MVP;Akai,Irithel,Zhuxin,Hayabusa,Gloo;Knockout Stage
+M6-036;RRQ Hoshi;Idok;RRQ Hoshi;Franco;1;2;6;Roamer;No MVP;Akai,Irithel,Zhuxin,Hayabusa,Gloo;Knockout Stage
+M6-036;Team Vamos;Chibi;RRQ Hoshi;Suyou;1;6;2;Jungler;No MVP;Fanny,Bruno,Hilda,Ling,Mathilda;Knockout Stage
+M6-036;Team Vamos;Warlord;RRQ Hoshi;Valentina;2;1;4;Midlaner;No MVP;Fanny,Bruno,Hilda,Ling,Mathilda;Knockout Stage
+M6-036;Team Vamos;Smooth;RRQ Hoshi;Hylos;2;4;3;Explaner;No MVP;Fanny,Bruno,Hilda,Ling,Mathilda;Knockout Stage
+M6-036;Team Vamos;Nets;RRQ Hoshi;Karrie;3;4;1;Goldlaner;No MVP;Fanny,Bruno,Hilda,Ling,Mathilda;Knockout Stage
+M6-036;Team Vamos;Xorn;RRQ Hoshi;Jawhead;0;4;6;Roamer;No MVP;Fanny,Bruno,Hilda,Ling,Mathilda;Knockout Stage
+M6-037; Team Spirit;Oneshot;Team Liquid;Suyou;0;1;3;Jungler;No MVP;Angela,Bruno,Zhuxin,Chou,Hylos;Knockout Stage
+M6-037; Team Spirit;Sunsetlover;Team Liquid;Vexana;1;0;3;Midlaner;No MVP;Angela,Bruno,Zhuxin,Chou,Hylos;Knockout Stage
+M6-037; Team Spirit;Kidbomba;Team Liquid;Hilda;0;4;1;Explaner;No MVP;Angela,Bruno,Zhuxin,Chou,Hylos;Knockout Stage
+M6-037; Team Spirit;Hiko;Team Liquid;Beatrix;3;3;1;Goldlaner;No MVP;Angela,Bruno,Zhuxin,Chou,Hylos;Knockout Stage
+M6-037; Team Spirit;Sawo;Team Liquid;Gatotkaca;2;2;2;Roamer;No MVP;Angela,Bruno,Zhuxin,Chou,Hylos;Knockout Stage
+M6-037;Team Liquid;Favian;Team Liquid;Alpha;2;3;6;Jungler;No MVP;Wanwan,Cecilion,Joy,Mathilda,Fanny;Knockout Stage
+M6-037;Team Liquid;Yehezkiel;Team Liquid;Yve;1;0;8;Midlaner;No MVP;Wanwan,Cecilion,Joy,Mathilda,Fanny;Knockout Stage
+M6-037;Team Liquid;Aran;Team Liquid;Gloo;2;1;7;Explaner;No MVP;Wanwan,Cecilion,Joy,Mathilda,Fanny;Knockout Stage
+M6-037;Team Liquid;AeronShikii;Team Liquid;Granger;5;0;3;Goldlaner;MVP;Wanwan,Cecilion,Joy,Mathilda,Fanny;Knockout Stage
+M6-037;Team Liquid;Widy;Team Liquid;Carmilla;0;2;9;Roamer;No MVP;Wanwan,Cecilion,Joy,Mathilda,Fanny;Knockout Stage
+M6-038;Fnatic Onic Ph;K1ngkong;Fnatic Onic Ph;Joy;7;2;5;Jungler;No MVP;Alpha,Fredrin,Bruno,Phoveus,Pharsa;Knockout Stage
+M6-038;Fnatic Onic Ph;Super Frince;Fnatic Onic Ph;Yve;2;0;9;Midlaner;No MVP;Alpha,Fredrin,Bruno,Phoveus,Pharsa;Knockout Stage
+M6-038;Fnatic Onic Ph;Kirk;Fnatic Onic Ph;Hilda;3;3;4;Explaner;No MVP;Alpha,Fredrin,Bruno,Phoveus,Pharsa;Knockout Stage
+M6-038;Fnatic Onic Ph;kelra;Fnatic Onic Ph;Irithel;4;0;5;Goldlaner;MVP;Alpha,Fredrin,Bruno,Phoveus,Pharsa;Knockout Stage
+M6-038;Fnatic Onic Ph;Brusko;Fnatic Onic Ph;Khaled;0;5;8;Roamer;No MVP;Alpha,Fredrin,Bruno,Phoveus,Pharsa;Knockout Stage
+M6-038;Falcon Esports;Daxx;Fnatic Onic Ph;Hayabusa;0;3;7;Jungler;No MVP;Chou,BeatrixLuoyi,Zhuxin,Fanny;Knockout Stage
+M6-038;Falcon Esports;Px7;Fnatic Onic Ph;Vexana;3;3;2;Midlaner;No MVP;Chou,BeatrixLuoyi,Zhuxin,Fanny;Knockout Stage
+M6-038;Falcon Esports;Royalmilk;Fnatic Onic Ph;Hylos;2;2;6;Explaner;No MVP;Chou,BeatrixLuoyi,Zhuxin,Fanny;Knockout Stage
+M6-038;Falcon Esports;beni;Fnatic Onic Ph;Granger;5;1;4;Goldlaner;No MVP;Chou,BeatrixLuoyi,Zhuxin,Fanny;Knockout Stage
+M6-038;Falcon Esports;kidx;Fnatic Onic Ph;Tigreal;0;7;3;Roamer;No MVP;Chou,BeatrixLuoyi,Zhuxin,Fanny;Knockout Stage
+M6-039;RRQ Hoshi;Sutsujin;Team Liquid;Ling;3;3;2;Jungler;No MVP;Luoyi,Khaled,Mathilda,Hilda,Fanny;Knockout Stage
+M6-039;RRQ Hoshi;Rinz;Team Liquid;Yve;1;0;4;Midlaner;No MVP;Luoyi,Khaled,Mathilda,Hilda,Fanny;Knockout Stage
+M6-039;RRQ Hoshi;Dyrenn;Team Liquid;Gloo;1;4;4;Explaner;No MVP;Luoyi,Khaled,Mathilda,Hilda,Fanny;Knockout Stage
+M6-039;RRQ Hoshi;Skylar;Team Liquid;Irithel;1;1;2;Goldlaner;No MVP;Luoyi,Khaled,Mathilda,Hilda,Fanny;Knockout Stage
+M6-039;RRQ Hoshi;Idok;Team Liquid;Belerick;0;5;4;Roamer;No MVP;Luoyi,Khaled,Mathilda,Hilda,Fanny;Knockout Stage
+M6-039;Team Liquid;Favian;Team Liquid;Suyou;5;0;6;Jungler;No MVP;Bruno,Wanwan,Phoveus,Ruby,Franco;Knockout Stage
+M6-039;Team Liquid;Yehezkiel;Team Liquid;Lylia;3;1;9;Midlaner;No MVP;Bruno,Wanwan,Phoveus,Ruby,Franco;Knockout Stage
+M6-039;Team Liquid;Aran;Team Liquid;Hylos;0;4;5;Explaner;No MVP;Bruno,Wanwan,Phoveus,Ruby,Franco;Knockout Stage
+M6-039;Team Liquid;AeronShikii;Team Liquid;Granger;5;0;5;Goldlaner;MVP;Bruno,Wanwan,Phoveus,Ruby,Franco;Knockout Stage
+M6-039;Team Liquid;Widy;Team Liquid;Chou;0;1;9;Roamer;No MVP;Bruno,Wanwan,Phoveus,Ruby,Franco;Knockout Stage
+M6-040;Team Vamos;Chibi; Team Spirit;Hayabusa;5;2;6;Jungler;No MVP;Fanny,Gloo,Joy,Alpha,Fredrin;Knockout Stage
+M6-040;Team Vamos;Warlord; Team Spirit;Vexana;1;3;10;Midlaner;No MVP;Fanny,Gloo,Joy,Alpha,Fredrin;Knockout Stage
+M6-040;Team Vamos;Smooth; Team Spirit;Khaled;3;5;6;Explaner;No MVP;Fanny,Gloo,Joy,Alpha,Fredrin;Knockout Stage
+M6-040;Team Vamos;Nets; Team Spirit;Bruno;4;0;3;Goldlaner;No MVP;Fanny,Gloo,Joy,Alpha,Fredrin;Knockout Stage
+M6-040;Team Vamos;Xorn; Team Spirit;Chou;0;4;8;Roamer;No MVP;Fanny,Gloo,Joy,Alpha,Fredrin;Knockout Stage
+M6-040; Team Spirit;Oneshot; Team Spirit;Bane;5;4;4;Jungler;No MVP;Cici,Phoveus,Cecilion,Suyou,Zhuxin;Knockout Stage
+M6-040; Team Spirit;Sunsetlover; Team Spirit;Valentina;0;2;12;Midlaner;No MVP;Cici,Phoveus,Cecilion,Suyou,Zhuxin;Knockout Stage
+M6-040; Team Spirit;Kidbomba; Team Spirit;Hilda;1;4;7;Explaner;No MVP;Cici,Phoveus,Cecilion,Suyou,Zhuxin;Knockout Stage
+M6-040; Team Spirit;Hiko; Team Spirit;Beatrix;5;1;4;Goldlaner;No MVP;Cici,Phoveus,Cecilion,Suyou,Zhuxin;Knockout Stage
+M6-040; Team Spirit;Sawo; Team Spirit;Mathilda;3;2;10;Roamer;MVP;Cici,Phoveus,Cecilion,Suyou,Zhuxin;Knockout Stage
+M6-041; Selangor Red Giants;Sekys; Selangor Red Giants;Joy;6;3;3;Jungler;No MVP;Fredrin,Suyou,Luoyi,Zhuxin,Fanny;Knockout Stage
+M6-041; Selangor Red Giants;Stormie; Selangor Red Giants;Vexana;2;3;5;Midlaner;No MVP;Fredrin,Suyou,Luoyi,Zhuxin,Fanny;Knockout Stage
+M6-041; Selangor Red Giants;Kramm; Selangor Red Giants;Gatotkaca;0;4;11;Explaner;No MVP;Fredrin,Suyou,Luoyi,Zhuxin,Fanny;Knockout Stage
+M6-041; Selangor Red Giants;Innocent; Selangor Red Giants;Bruno;7;1;7;Goldlaner;MVP;Fredrin,Suyou,Luoyi,Zhuxin,Fanny;Knockout Stage
+M6-041; Selangor Red Giants;Yums; Selangor Red Giants;Khufra;2;4;9;Roamer;No MVP;Fredrin,Suyou,Luoyi,Zhuxin,Fanny;Knockout Stage
+M6-041;NIP Flash;Hadess; Selangor Red Giants;Guinevere;2;3;6;Jungler;No MVP;Hilda,Phoveus,Mathilda,Cici,Valentina;Knockout Stage
+M6-041;NIP Flash;Kurttzy; Selangor Red Giants;Pharsa;1;1;10;Midlaner;No MVP;Hilda,Phoveus,Mathilda,Cici,Valentina;Knockout Stage
+M6-041;NIP Flash;Diablo; Selangor Red Giants;Benedetta;9;5;6;Explaner;No MVP;Hilda,Phoveus,Mathilda,Cici,Valentina;Knockout Stage
+M6-041;NIP Flash;Vanix; Selangor Red Giants;Granger;2;2;5;Goldlaner;No MVP;Hilda,Phoveus,Mathilda,Cici,Valentina;Knockout Stage
+M6-041;NIP Flash;JPL; Selangor Red Giants;Chou;1;6;6;Roamer;No MVP;Hilda,Phoveus,Mathilda,Cici,Valentina;Knockout Stage
+M6-042;Falcon Esports;Daxx; Team Spirit;Ling;0;1;2;Jungler;No MVP;Jawhead,Belerick,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-042;Falcon Esports;Px7; Team Spirit;Angela;1;2;1;Midlaner;No MVP;Jawhead,Belerick,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-042;Falcon Esports;Royalmilk; Team Spirit;Hilda;1;3;2;Explaner;No MVP;Jawhead,Belerick,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-042;Falcon Esports;beni; Team Spirit;Harith;0;2;0;Goldlaner;No MVP;Jawhead,Belerick,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-042;Falcon Esports;kidx; Team Spirit;Hylos;1;6;1;Roamer;No MVP;Jawhead,Belerick,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-042; Team Spirit;Oneshot; Team Spirit;Suyou;4;3;5;Jungler;No MVP;Fredrin,Joy,Bruno,Faramis,Pharsa;Knockout Stage
+M6-042; Team Spirit;Sunsetlover; Team Spirit;Valentina;3;0;10;Midlaner;MVP;Fredrin,Joy,Bruno,Faramis,Pharsa;Knockout Stage
+M6-042; Team Spirit;Kidbomba; Team Spirit;Gloo;1;0;10;Explaner;No MVP;Fredrin,Joy,Bruno,Faramis,Pharsa;Knockout Stage
+M6-042; Team Spirit;Hiko; Team Spirit;Wanwan;3;0;7;Goldlaner;No MVP;Fredrin,Joy,Bruno,Faramis,Pharsa;Knockout Stage
+M6-042; Team Spirit;Sawo; Team Spirit;Gatotkaca;3;0;10;Roamer;No MVP;Fredrin,Joy,Bruno,Faramis,Pharsa;Knockout Stage
+M6-043;RRQ Hoshi;Sutsujin; Selangor Red Giants;Hayabusa;1;4;3;Jungler;No MVP;Hilda,Chou,Mathilda,Yve,Chip;Knockout Stage
+M6-043;RRQ Hoshi;Rinz; Selangor Red Giants;Pharsa;2;4;3;Midlaner;No MVP;Hilda,Chou,Mathilda,Yve,Chip;Knockout Stage
+M6-043;RRQ Hoshi;Dyrenn; Selangor Red Giants;Khaled;2;4;3;Explaner;No MVP;Hilda,Chou,Mathilda,Yve,Chip;Knockout Stage
+M6-043;RRQ Hoshi;Skylar; Selangor Red Giants;Bruno;0;2;0;Goldlaner;No MVP;Hilda,Chou,Mathilda,Yve,Chip;Knockout Stage
+M6-043;RRQ Hoshi;Idok; Selangor Red Giants;Belerick;1;4;3;Roamer;No MVP;Hilda,Chou,Mathilda,Yve,Chip;Knockout Stage
+M6-043; Selangor Red Giants;Sekys; Selangor Red Giants;Joy;1;2;9;Jungler;No MVP;Suyou,Fredrin,Phoveus,Fanny,Zhuxin;Knockout Stage
+M6-043; Selangor Red Giants;Stormie; Selangor Red Giants;Vale ;0;1;8;Midlaner;No MVP;Suyou,Fredrin,Phoveus,Fanny,Zhuxin;Knockout Stage
+M6-043; Selangor Red Giants;Kramm; Selangor Red Giants;Gatotkaca;3;1;11;Explaner;No MVP;Suyou,Fredrin,Phoveus,Fanny,Zhuxin;Knockout Stage
+M6-043; Selangor Red Giants;Innocent; Selangor Red Giants;Granger;13;0;1;Goldlaner;MVP;Suyou,Fredrin,Phoveus,Fanny,Zhuxin;Knockout Stage
+M6-043; Selangor Red Giants;Yums; Selangor Red Giants;Edith;1;2;9;Roamer;No MVP;Suyou,Fredrin,Phoveus,Fanny,Zhuxin;Knockout Stage
+M6-044;Fnatic Onic Ph;K1ngkong;Fnatic Onic Ph;Suyou;7;2;7;Jungler;No MVP;Cecilion,Harith,Zhuxin,Granger,Fanny;Knockout Stage
+M6-044;Fnatic Onic Ph;Super Frince;Fnatic Onic Ph;Yve;6;2;8;Midlaner;No MVP;Cecilion,Harith,Zhuxin,Granger,Fanny;Knockout Stage
+M6-044;Fnatic Onic Ph;Kirk;Fnatic Onic Ph;Chou;2;3;7;Explaner;No MVP;Cecilion,Harith,Zhuxin,Granger,Fanny;Knockout Stage
+M6-044;Fnatic Onic Ph;kelra;Fnatic Onic Ph;Wanwan;2;0;12;Goldlaner;MVP;Cecilion,Harith,Zhuxin,Granger,Fanny;Knockout Stage
+M6-044;Fnatic Onic Ph;Brusko;Fnatic Onic Ph;Tigreal;2;3;11;Roamer;No MVP;Cecilion,Harith,Zhuxin,Granger,Fanny;Knockout Stage
+M6-044;Team Liquid;Favian;Fnatic Onic Ph;Alpha;2;6;4;Jungler;No MVP;Luoyi,Bruno,Cici,Edith,Cici;Knockout Stage
+M6-044;Team Liquid;Yehezkiel;Fnatic Onic Ph;Pharsa;1;2;4;Midlaner;No MVP;Luoyi,Bruno,Cici,Edith,Cici;Knockout Stage
+M6-044;Team Liquid;Aran;Fnatic Onic Ph;Hilda;2;7;1;Explaner;No MVP;Luoyi,Bruno,Cici,Edith,Cici;Knockout Stage
+M6-044;Team Liquid;AeronShikii;Fnatic Onic Ph;Irithel;3;2;2;Goldlaner;No MVP;Luoyi,Bruno,Cici,Edith,Cici;Knockout Stage
+M6-044;Team Liquid;Widy;Fnatic Onic Ph;Mathilda;2;2;5;Roamer;No MVP;Luoyi,Bruno,Cici,Edith,Cici;Knockout Stage
+M6-045; Selangor Red Giants;Sekys; Selangor Red Giants;Suyou;5;3;4;Jungler;No MVP;Tigreal,Valentina,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-045; Selangor Red Giants;Stormie; Selangor Red Giants;Pharsa;2;0;13;Midlaner;No MVP;Tigreal,Valentina,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-045; Selangor Red Giants;Kramm; Selangor Red Giants;Gatotkaca;4;1;6;Explaner;No MVP;Tigreal,Valentina,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-045; Selangor Red Giants;Innocent; Selangor Red Giants;Karrie;5;1;8;Goldlaner;No MVP;Tigreal,Valentina,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-045; Selangor Red Giants;Yums; Selangor Red Giants;Jawhead;1;0;11;Roamer;MVP;Tigreal,Valentina,Mathilda,Zhuxin,Fanny;Knockout Stage
+M6-045; Team Spirit;Oneshot; Selangor Red Giants;Hayabusa;3;2;1;Jungler;No MVP;Joy,Granger,Bruno,Harith,Moskov;Knockout Stage
+M6-045; Team Spirit;Sunsetlover; Selangor Red Giants;Vexana;1;1;3;Midlaner;No MVP;Joy,Granger,Bruno,Harith,Moskov;Knockout Stage
+M6-045; Team Spirit;Kidbomba; Selangor Red Giants;Hilda;1;6;2;Explaner;No MVP;Joy,Granger,Bruno,Harith,Moskov;Knockout Stage
+M6-045; Team Spirit;Hiko; Selangor Red Giants;Wanwan;0;2;2;Goldlaner;No MVP;Joy,Granger,Bruno,Harith,Moskov;Knockout Stage
+M6-045; Team Spirit;Sawo; Selangor Red Giants;Hylos;0;6;4;Roamer;No MVP;Joy,Granger,Bruno,Harith,Moskov;Knockout Stage
+M6-046;Team Liquid;Favian;Team Liquid;Suyou;6;1;2;Jungler;MVP;Benedetta,Cici,Zhuxin,Joy,Fanny;Knockout Stage
+M6-046;Team Liquid;Yehezkiel;Team Liquid;Yve;1;0;6;Midlaner;No MVP;Benedetta,Cici,Zhuxin,Joy,Fanny;Knockout Stage
+M6-046;Team Liquid;Aran;Team Liquid;Hilda;2;1;2;Explaner;No MVP;Benedetta,Cici,Zhuxin,Joy,Fanny;Knockout Stage
+M6-046;Team Liquid;AeronShikii;Team Liquid;Natan;2;0;4;Goldlaner;No MVP;Benedetta,Cici,Zhuxin,Joy,Fanny;Knockout Stage
+M6-046;Team Liquid;Widy;Team Liquid;Khaled;2;0;5;Roamer;No MVP;Benedetta,Cici,Zhuxin,Joy,Fanny;Knockout Stage
+M6-046; Selangor Red Giants;Sekys;Team Liquid;Fredrin;1;3;1;Jungler;No MVP;Chou,Luoyi,Granger,Chip,Moskov;Knockout Stage
+M6-046; Selangor Red Giants;Stormie;Team Liquid;Aurora;0;2;1;Midlaner;No MVP;Chou,Luoyi,Granger,Chip,Moskov;Knockout Stage
+M6-046; Selangor Red Giants;Kramm;Team Liquid;Edith;0;2;1;Explaner;No MVP;Chou,Luoyi,Granger,Chip,Moskov;Knockout Stage
+M6-046; Selangor Red Giants;Innocent;Team Liquid;Bruno;0;2;0;Goldlaner;No MVP;Chou,Luoyi,Granger,Chip,Moskov;Knockout Stage
+M6-046; Selangor Red Giants;Yums;Team Liquid;Mathilda;1;4;1;Roamer;No MVP;Chou,Luoyi,Granger,Chip,Moskov;Knockout Stage
+M6-047;Team Liquid;Favian;Fnatic Onic Ph;Hayabusa;6;3;5;Jungler;No MVP;Chou,Luoyi,Bruno,Tigreal,Gatotkaca;Knockout Stage
+M6-047;Team Liquid;Yehezkiel;Fnatic Onic Ph;Zhuxin;3;1;10;Midlaner;No MVP;Chou,Luoyi,Bruno,Tigreal,Gatotkaca;Knockout Stage
+M6-047;Team Liquid;Aran;Fnatic Onic Ph;Hilda;2;5;9;Explaner;No MVP;Chou,Luoyi,Bruno,Tigreal,Gatotkaca;Knockout Stage
+M6-047;Team Liquid;AeronShikii;Fnatic Onic Ph;Granger;4;2;7;Goldlaner;No MVP;Chou,Luoyi,Bruno,Tigreal,Gatotkaca;Knockout Stage
+M6-047;Team Liquid;Widy;Fnatic Onic Ph;Carmilla;1;4;12;Roamer;No MVP;Chou,Luoyi,Bruno,Tigreal,Gatotkaca;Knockout Stage
+M6-047;Fnatic Onic Ph;K1ngkong;Fnatic Onic Ph;Alpha;4;1;7;Jungler;No MVP;Jawhead,Harith,Joy,Suyou,Fanny;Knockout Stage
+M6-047;Fnatic Onic Ph;Super Frince;Fnatic Onic Ph;Yve;1;4;11;Midlaner;No MVP;Jawhead,Harith,Joy,Suyou,Fanny;Knockout Stage
+M6-047;Fnatic Onic Ph;Kirk;Fnatic Onic Ph;Edith;1;2;7;Explaner;No MVP;Jawhead,Harith,Joy,Suyou,Fanny;Knockout Stage
+M6-047;Fnatic Onic Ph;kelra;Fnatic Onic Ph;Irithel;6;2;7;Goldlaner;MVP;Jawhead,Harith,Joy,Suyou,Fanny;Knockout Stage
+M6-047;Fnatic Onic Ph;Brusko;Fnatic Onic Ph;Khaled;3;7;10;Roamer;No MVP;Jawhead,Harith,Joy,Suyou,Fanny;Knockout Stage
