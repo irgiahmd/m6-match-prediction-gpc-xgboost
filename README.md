@@ -38,6 +38,7 @@ streamlit run app.py
 In addition to model analysis, this project also presents comprehensive statistics from the Mobile Legends M6 Championship, including:
 
 🔸 Team Performance
+
 Win rate per team
 
 Most picked and banned heroes
@@ -45,13 +46,15 @@ Most picked and banned heroes
 Match count and stage distribution (Swiss vs Knockout)
 
 🔸 Hero Statistics
-Top 5 most picked heroes
 
-Top 5 most banned heroes
+Top 10 most picked heroes
+
+Top 10 most banned heroes
 
 Hero win rate distribution
 
 🔸 Player Performance
+
 Top MVPs per stage
 
 Best players based on KDA and MVP score
@@ -59,6 +62,7 @@ Best players based on KDA and MVP score
 Player performance by role (e.g., EXP, Jungle, Mid, Gold, Roamer)
 
 📈 Visualizations
+
 📉 Bar chart of team win rates
 
 🛡️ Hero ban/pick trends (bar and pie charts)
