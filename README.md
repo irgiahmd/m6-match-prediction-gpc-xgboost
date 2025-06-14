@@ -14,7 +14,7 @@ The objective of this research is to compare the performance of two classificati
 
 ## ⚙️ How to Run
 
-git clone https://github.com/irgiahmad/m6-match-prediction-gpc-xgboost.git
+1. git clone https://github.com/irgiahmad/m6-match-prediction-gpc-xgboost.git
 
 2. Install required libraries:
 pip install -r requirements.txt
